@@ -1,0 +1,203 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-size: 14px;
+}
+.v19_429 {
+  width: 393px;
+  height: 852px;
+  background: rgba(239,239,239,1);
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+  overflow: hidden;
+}
+.v19_430 {
+  width: 697px;
+  height: 522px;
+  background: url("../images/v19_430.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 80px;
+  left: 152px;
+  overflow: hidden;
+}
+.v19_431 {
+  width: 393px;
+  height: 338px;
+  background: rgba(248,248,248,1);
+  opacity: 1;
+  position: absolute;
+  top: 514px;
+  left: 0px;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+  overflow: hidden;
+}
+.v19_436 {
+  width: 148px;
+  color: rgba(246,89,0,1);
+  position: absolute;
+  top: 594px;
+  left: 122px;
+  font-family: Montserrat;
+  font-weight: Black;
+  font-size: 24px;
+  opacity: 1;
+  text-align: center;
+}
+.v19_437 {
+  width: 264px;
+  color: rgba(57,23,19,1);
+  position: absolute;
+  top: 642px;
+  left: 64px;
+  font-family: Montserrat;
+  font-weight: Medium;
+  font-size: 14px;
+  opacity: 1;
+  text-align: center;
+}
+.name {
+  color: #fff;
+}
+.v17_261 {
+  width: 42px;
+  height: 50px;
+  background: url("../images/v17_261.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 525px;
+  left: 175px;
+  overflow: hidden;
+}
+.v17_262 {
+  width: 6px;
+  height: 17px;
+  background: url("../images/v17_262.png");
+  opacity: 1;
+  position: absolute;
+  top: 32px;
+  left: 12px;
+  border: 2px solid rgba(246,89,0,1);
+}
+.v17_263 {
+  width: 18px;
+  height: 34px;
+  background: url("../images/v17_263.png");
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 29px;
+  border: 2px solid rgba(246,89,0,1);
+}
+.v17_264 {
+  width: 8px;
+  height: 8px;
+  background: url("../images/v17_264.png");
+  opacity: 1;
+  position: absolute;
+  top: 18px;
+  left: 17px;
+  border: 2px solid rgba(246,89,0,1);
+}
+.v19_464 {
+  width: 68px;
+  height: 4px;
+  background: url("../images/v19_464.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 715px;
+  left: 162px;
+  overflow: hidden;
+}
+.v19_465 {
+  width: 20px;
+  height: 4px;
+  background: rgba(243,233,181,1);
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  border-top-left-radius: 12px;
+  border-top-right-radius: 12px;
+  border-bottom-left-radius: 12px;
+  border-bottom-right-radius: 12px;
+  overflow: hidden;
+}
+.v19_466 {
+  width: 20px;
+  height: 4px;
+  background: rgba(243,233,181,1);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 48px;
+  border-top-left-radius: 12px;
+  border-top-right-radius: 12px;
+  border-bottom-left-radius: 12px;
+  border-bottom-right-radius: 12px;
+  overflow: hidden;
+}
+.v19_467 {
+  width: 20px;
+  height: 4px;
+  background: rgba(233,83,34,1);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 24px;
+  border-top-left-radius: 12px;
+  border-top-right-radius: 12px;
+  border-bottom-left-radius: 12px;
+  border-bottom-right-radius: 12px;
+  overflow: hidden;
+}
+.name {
+  color: #fff;
+}
+.v20_247 {
+  width: 166px;
+  height: 18px;
+  background: url("../images/v20_247.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 52px;
+  left: 18px;
+  overflow: hidden;
+}
+.v20_248 {
+  width: 152px;
+  color: rgba(233,83,34,1);
+  position: absolute;
+  top: 0px;
+  left: 14px;
+  font-family: Montserrat;
+  font-weight: SemiBold;
+  font-size: 15px;
+  opacity: 1;
+  text-align: left;
+}
+.name {
+  color: #fff;
+}
