@@ -18,7 +18,7 @@ body {
   border-bottom-right-radius: 20px;
   overflow: hidden;
 }
-.v17_147 {
+.steak {
   width: 697px;
   height: 522px;
   background: url("../images/v17_147.png");
@@ -28,10 +28,10 @@ body {
   opacity: 1;
   position: absolute;
   top: 80px;
-  left: 152px;
+  left: -120px;
   overflow: hidden;
 }
-.v20_232 {
+.springRolls {
   width: 441px;
   height: 479px;
   background: url("../images/v20_232.png");
@@ -41,7 +41,19 @@ body {
   opacity: 1;
   position: absolute;
   top: 80px;
-  left: 48px;
+  overflow: hidden;
+}
+.pie {
+  width: 441px;
+  height: 479px;
+  background: url("../images/v17_151.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 80px;
+  left: -40px;
   overflow: hidden;
 }
 .v19_397 {

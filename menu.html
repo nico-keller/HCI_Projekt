@@ -1,41 +1,68 @@
-<!DOCTYPE html><html>
+<!DOCTYPE html>
+<html>
 <head>
   <link href="https://fonts.googleapis.com/css?family=Montserrat&display=swap" rel="stylesheet" />
   <link href="./css/main2.css" rel="stylesheet" />
-  <title>Document</title></head>
+  <title>Document</title>
+  <style>
+    .image-container {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 650px;
+      position: relative;
+    }
+    .image-container2 {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100px;
+      position: relative;
+      z-index: 11;
+    }
+    .image-container img {
+      max-width: 100%;
+      height: auto;
+      z-index: 10;
+    }
+  </style>
+</head>
 <body>
 <div class="v11_86">
   <div class="name"></div>
-  <span class="v17_140"><b>Visualize your food</b></span>
-  <span class="v20_174"><b>Go to our PDF Menu</b></span>
-  <div class="v17_153"><div class="v17_171"></div>
+  <span class="v17_140" onclick="window.location.href='springRollMenu.html';"><b>Visualize your food</b></span>
+  <div class="image-container">
+    <a href="scrollableMenus.html">
+    <img src="images/visualize.png" alt="Food Visualization" style="max-width:100%;height:auto;" />
+    </a>
+  </div>
+  <a href="https://www.donkeys.sv/_files/ugd/bd3cd7_fa30f79333e2403399ed40d39b87e911.pdf" class="v20_174" target="_blank"><b>Go to our PDF Menu</b></a>
+  <div class="image-container2">
+    <a href="https://www.donkeys.sv/_files/ugd/bd3cd7_fa30f79333e2403399ed40d39b87e911.pdf">
+      <img src="images/book.png" alt="Go to our PDF Menu" style="max-width:100%;height:auto;" />
+    </a>
+  </div>
+  <div class="v17_153">
+    <div class="v17_171"></div>
     <div class="v17_155"></div>
     <div class="v17_158"></div>
   </div>
-  <div class="v17_159">
-    <div class="v17_160"></div>
-    <div class="v17_161"></div>
-    <div class="v17_162"></div>
-    <div class="v17_163"></div>
-    <div class="v17_164"></div>
-  </div>
+
+
   <div class="v17_359"></div>
   <div class="v19_378"></div>
   <div class="v17_360"></div>
   <div class="v17_361"></div>
   <div class="v17_362"></div>
   <div class="v17_363"></div>
-  <div class="v19_374">
-    <div class="v19_375">
-      <div class="v19_376"></div>
-      <div class="v19_377"></div>
-    </div>
-  </div>
-  <div class="v19_379">
-    <div class="v19_380"></div>
-    <div class="v19_381"></div>
-  </div>
-  <div class="v37_282"></div>
-  <div class="v37_284"></div></div>
+</div>
+
+<script>
+  // JavaScript redirection
+  document.querySelector('.v17_140').onclick = function() {
+    window.location.href = 'scrollableMenus.html';
+  };
+</script>
+
 </body>
 </html>
